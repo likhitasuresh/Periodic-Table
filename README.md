@@ -2,6 +2,8 @@
 A basic C++ application to display the periodic table and some properties of each element.
 
 
+Dated: Jan-May 2016
+
 ## **Objective**
 * The main objective of creating this application is to provide convenience to users when studying about the elements found on the periodic table by providing the necessary details about each element.
 * This project also aims in providing the users accurate information of elements and compounds easily.
@@ -18,13 +20,26 @@ A basic C++ application to display the periodic table and some properties of eac
 Attached are some screenshots from the application:
 
 
+![menu1](screenshots/menu1.PNG)
 
-![menu1](screenshots/menu1.png)
+*Main menu*
 
+![pertable](screenshots/pertable.PNG)
+*Display of the standard periodic table*
 
-![menu2](screenshots/menu2.png)
-![pertable](screenshots/pertable.png)
-![element](screenshots/element.png)
-![categories](screenshots/categories.png)
-![def](screenshots/def.png)
-![es](screenshots/es.png)
+![menu2](screenshots/menu2.PNG)
+
+*Sub-menu*
+
+![element](screenshots/element.PNG)
+*Description of a single element*
+
+![es](screenshots/es.PNG)
+*Elements with their respective electrode potential*
+
+![categories](screenshots/categories.PNG)
+*General categories of elements*
+
+![def](screenshots/def.PNG)
+*Extensive details of the particular element*
+
